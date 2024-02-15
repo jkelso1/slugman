@@ -1,2 +1,2 @@
 # slugman
-not but but slug
+not patch but slug
